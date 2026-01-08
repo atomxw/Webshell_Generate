@@ -19,7 +19,7 @@
 
 - 新增AntSword_jspjs无jsp标签webshell
 
-- 新增asmx_Godzilla_CSHAP_ASMX_AES_BASE64 webshel
+- 新增asmx_Godzilla_CSHAP_ASMX_AES_BASE64 webshell
 
 - 优化部分免杀代码
 
@@ -28,7 +28,9 @@
 - 优化部分免杀代码
 - jsp部分通过OrderClassLoaders类调用defineClass方法
 
-
+## 2026.1.8更新
+- 优化部分免杀代码
+  
 ## 参考资料
 
 参考了诸多大佬的文章、工具、思路，如
